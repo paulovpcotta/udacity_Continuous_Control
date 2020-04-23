@@ -52,7 +52,11 @@ During training, the actor is updated by applying the chain rule to the expected
 The work was very challenging and there were moments that I thought the agents were not going to learn. An important point is in the charts below:
 
 
+##### Future Works
 
+I’d like to try out algorithms like PPO, A3C, and D4PG that use multiple (non-interacting, parallel) copies of the same agent to distribute the task of gathering experience.
+
+I’d like to try out dropouts, various weight initialization and further hyper-parameters like cost functions that may yield better results.
 
 
 ##### References
