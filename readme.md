@@ -4,20 +4,20 @@
 
 ##### Requirements and install
 
-tensorflow==1.7.1
-Pillow>=4.2.1
-matplotlib
-numpy>=1.11.0
-jupyter
-pytest>=3.2.2
-docopt
-pyyaml
-protobuf==3.5.2
-grpcio==1.11.0
-torch==0.4.0
-pandas
-scipy
-ipykernel
+* tensorflow==1.7.1
+* Pillow>=4.2.1
+* matplotlib
+* numpy>=1.11.0
+* jupyter
+* pytest>=3.2.2
+* docopt
+* pyyaml
+* protobuf==3.5.2
+* grpcio==1.11.0
+* torch==0.4.0
+* pandas
+* scipy
+* ipykernel
 
 
 Using the Udacity workspace, the command '!pip -q install ./python' performs the installation.
